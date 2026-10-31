@@ -1,0 +1,1 @@
+print("kushal jhatu ahe")
